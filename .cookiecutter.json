@@ -1,0 +1,11 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Olivier Antonelli",
+  "email": "oantonelli@free.fr",
+  "friendly_name": "Selenium Resumption",
+  "github_user": "olivierantonelli",
+  "license": "MIT",
+  "package_name": "selenium_resumption",
+  "project_name": "selenium-resumption",
+  "version": "0.0.0"
+}
